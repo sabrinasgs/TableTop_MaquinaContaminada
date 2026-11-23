@@ -1,0 +1,14 @@
+<Configuration>
+  <!-- Windows Sandbox: VM descartavel, sem rede. Ajuste HostFolder para onde voce extraiu o kit. -->
+  <Networking>Disable</Networking>
+  <ClipboardRedirection>Disable</ClipboardRedirection>
+  <PrinterRedirection>Disable</PrinterRedirection>
+  <MemoryInMB>4096</MemoryInMB>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Tabletop\Kit-Participante</HostFolder>
+      <SandboxFolder>C:\Kit</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>
