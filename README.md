@@ -30,7 +30,7 @@ Tudo roda numa máquina Windows de teste. O exercício cria as evidências (arqu
 |---|---|
 | `MaquinaContaminada/` | Versão completa, com mais casos de investigação, como persistência na máquina e saída de dados |
 | `MaquinaContaminada_VReduzida/` | Versão reduzida de 45 minutos, com 3 fases e 2 desafios em cada |
-| `Materiais/` | Guia do instrutor, slides, roteiro impresso e papel de parede |
+| `Materiais/` | Slides, roteiro impresso e papel de parede |
 
 ## Senhas de acesso
 
@@ -46,3 +46,7 @@ Tudo roda numa máquina Windows de teste. O exercício cria as evidências (arqu
 2. Copie a pasta da versão escolhida. Se ela veio em zip, desbloqueie antes de extrair, clicando com o botão direito › Propriedades › Desbloquear.
 3. Dê dois cliques em `Iniciar.cmd` e digite a senha da fase.
 4. Ao final, ou entre um grupo e outro, rode `Limpar.cmd`.
+
+## Sobre o desenvolvimento 
+
+O projeto foi idealizado, testado e aplicado por mim, com o auxílio de inteligência artificial no desenvolvimento.
